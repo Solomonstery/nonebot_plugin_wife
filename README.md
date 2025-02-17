@@ -1,0 +1,2 @@
+# nonebot_plugin_wife
+一个基于gensokyo与nonebot互通的群老婆插件
